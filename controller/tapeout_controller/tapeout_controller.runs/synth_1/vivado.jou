@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Mar 19 23:03:37 2023
+# Process ID: 18734
+# Current directory: /afs/ee.cooper.edu/user/g/giuseppe.quaratino/tapeout/controller/tapeout_controller/tapeout_controller.runs/synth_1
+# Command line: vivado -log controller.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source controller.tcl
+# Log file: /afs/ee.cooper.edu/user/g/giuseppe.quaratino/tapeout/controller/tapeout_controller/tapeout_controller.runs/synth_1/controller.vds
+# Journal file: /afs/ee.cooper.edu/user/g/giuseppe.quaratino/tapeout/controller/tapeout_controller/tapeout_controller.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source controller.tcl -notrace
