@@ -19,6 +19,7 @@ module sram_1rw1r_128x65536_128(
   // 16pixels x 8bit luminance 
   parameter DATA_WIDTH = 128 ;
   // 720rows x 80cols
+  // 11bits x 6 bits
   parameter ADDR_WIDTH = 17 ;
   parameter RAM_DEPTH = 1 << ADDR_WIDTH;
   // FIXME: This delay is arbitrary.
